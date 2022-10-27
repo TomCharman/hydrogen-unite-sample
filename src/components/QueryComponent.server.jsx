@@ -29,8 +29,6 @@ const Availability = ({ sku }) => {
     return <div>Nothin have anything</div>;
   }
 
-  console.log('options', options);
-
   return (
     <div>
       <ul>
